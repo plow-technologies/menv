@@ -1,2 +1,2 @@
 # menv
-Simple programming (as in IO) but taking care of your environment (specifying effects in the type signature).
+A point in the effects design space, somewhere between pure `IO`, the `ReaderT` pattern and `mtl`.
