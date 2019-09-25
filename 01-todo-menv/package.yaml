@@ -1,0 +1,11 @@
+name: todo-menv
+version: 1
+dependencies:
+- base
+library:
+  source-dirs: src
+executable:
+  source-dirs: app
+  main: Main.hs
+  dependencies:
+  - todo-menv

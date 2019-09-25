@@ -1,0 +1,4 @@
+resolver: lts-14.7
+packages:
+- ./01-todo-io
+- ./01-todo-menv
